@@ -4,7 +4,7 @@
 
 - Estudante de Desenvolvimento de Sistemas
 - Aprendendo Git e GitHub
-- Meta: Tornar-me desenvolvedor
+- Meta: Tornar-me desenvolvedor de sistemas
 
 ## Habilidades em desenvolvimento
 
